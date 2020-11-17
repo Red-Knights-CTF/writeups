@@ -10,7 +10,7 @@ and You'll see Double word in the Name
 first thing to came your mind it's URL DOUBLE "ENCODING" the lost word
 i'll use this website for double encoding https://www.url-encode-decode.com/
 and encode the given dir twice,
-![urltwice](urltwice.png)
+![urltwice](urltwice.png)<br>
 and put it into the url like this,and will get the flag.
 ![flag](flag.png)
 
