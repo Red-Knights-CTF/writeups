@@ -38,9 +38,7 @@ i = 0
 with open('out.7z', 'wb') as fout:
     with open('Fibonacci.7z', 'rb') as fin:
         fibs = gen_fib(1000)
-        print(fibs)
         fibs = set(fibs)
-        print(fibs)
 
         while True:
             b = fin.read(1)

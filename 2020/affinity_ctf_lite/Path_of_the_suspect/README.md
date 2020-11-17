@@ -3,7 +3,7 @@
 **Category**: OSINT \
 **Points**: 425
 
-The first thing I did was Google what MCC, MNC, LAC, and CID where. Eventually,
+The first thing I did was Google what MCC, MNC, LAC, and CID were. Eventually,
 I found a tool called https://opencellid.org that would find locations based on
 these values.
 

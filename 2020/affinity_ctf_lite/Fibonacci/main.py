@@ -10,7 +10,6 @@ with open('out.7z', 'wb') as fout:
     with open('Fibonacci.7z', 'rb') as fin:
         fibs = gen_fib(1000)
         fibs = set(fibs)
-        print(fibs)
 
         while True:
             b = fin.read(1)
