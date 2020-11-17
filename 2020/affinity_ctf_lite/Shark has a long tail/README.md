@@ -32,9 +32,10 @@ I lead to this ```tshark -r SharkHasALongTail.pcap -T fields -e tcp.len```
 
 It gives ```TCP``` header length of all packets
 
-Copy all that numbers and paste them into ```CyberChecf```
+Copy all that numbers and paste them into ```CyberChecf``` \
+[tcp_lengths.txt](https://github.com/Red-Knights-CTF/writeups/blob/master/2020/affinity_ctf_lite/Shark%20has%20a%20long%20tail/tcp_lengths.txt)
 
-Use ```From Deciaml``` Recipe 
+Use ```From Decimal``` Recipe 
 
 ![](https://github.com/Red-Knights-CTF/writeups/blob/master/2020/affinity_ctf_lite/Shark%20has%20a%20long%20tail/CyberChef.png)
 
