@@ -29,7 +29,6 @@ JSON like so:
         "cid": 1658726,
         "rtype": "UMTS"
     },
-    ...
 ```
 
 Next I wrote another script that would send a request to OpenCelliD and read the
