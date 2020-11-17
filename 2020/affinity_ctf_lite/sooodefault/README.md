@@ -15,6 +15,6 @@ op=re.findall("&#[0-9]{2,3}",op.text)
 print(op)
 print(''.join([chr(int(i.replace("&#",""))) for i in op]))
 ```
-![](/assets/injector/script.png)
+![](script.png)
 
 The flag is `AFFCTF{htmlentity}`
