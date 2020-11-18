@@ -6,7 +6,7 @@
 ```I encrypted important information and lost my private key! Can you help me to recover the content of the file?```
 
 ### Given: 
-```2 Files were given i) encrypted.txt <br/> ii) public.pem```
+```2 Files were given i) encrypted.txt ii) public.pem```
 
 ### Objective: 
 ```To decrypt the text provided in "encrypted.txt"```
