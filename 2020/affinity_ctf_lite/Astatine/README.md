@@ -29,7 +29,8 @@ OR a guy having good cryptographic knowledge can understand that it is **BASE 85
 Now you just needed to take the string and submit to **Cyberchef** with base 85 recipie foe decrypting....
 and VOILA...
 
+![](Base85CyberChef.png)
 
 
-FLAG OBTAINED :-->  AFFCTF{n0t_3nc0d3d}
+# FLAG OBTAINED :-->  AFFCTF{n0t_3nc0d3d} ... 🚩
 
