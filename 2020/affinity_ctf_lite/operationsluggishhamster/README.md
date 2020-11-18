@@ -1,4 +1,4 @@
-# operationsluggishhamster (229 points) 
+# operationsluggishhamster 🐹 (229 points) 
 
 ## Challenge Description
 Hello! There is a problem with an unknown company data center. Their existing solution is not efficient. Unfortunately, ex-main engineer **Franciszek Warcislaw** left the company. 
@@ -88,7 +88,7 @@ And this was this FLAG.....atlast RELIEF!!!
 
 ![](flag.png)
 
-## FLAG OBTAINED :---> AFFCTF{GuineaPigsAreTooBigForRunningWheels}
+## FLAG OBTAINED :---> AFFCTF{GuineaPigsAreTooBigForRunningWheels} 🚩
 
 Now there was an other way in this challenge...
 
