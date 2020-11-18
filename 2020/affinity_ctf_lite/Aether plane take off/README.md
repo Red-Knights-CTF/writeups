@@ -1,5 +1,4 @@
 # Writeup: Aether Plane Take off :triangular_flag_on_post:
-This is the writeup of the AFFINITY ctf that was performed on November 16, 2020. 
 
 ***Category : Forensic***:minidisc:\
 ***Points : 725***\
