@@ -52,15 +52,15 @@ Analyzing the file a little more and googling a bit I was able to find the PSK31
 
 ## Decoding PSK31 :radio:
 
-Looking for ways to decode PSK31 I found a `figidi` program, its use is the following: ` Download figidi` >  `Upload File` > `Playback`
+Looking for ways to decode PSK31 I found a `flgidi` program, its use is the following: ` Download flgidi` >  `Upload File` > `Playback`
 
-- [Download figidi](http://www.w1hkj.com/files/fldigi)
+- [Download flgidi](http://www.w1hkj.com/files/fldigi)
 
 ## Result :smile:
 
-![figidi](figidi-result.png)
+![flgidi](figidi-result.png)
 
 
 ```
-Flag : AFFCTF{PSKPSKSPK31
+Flag : AFFCTF{PSKPSKSPK31}
 ```
