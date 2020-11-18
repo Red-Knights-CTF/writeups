@@ -25,7 +25,7 @@ Inside that there was a file named pubkey.gpg which had a public pgp key and a p
 
 Now, save the .gpg file and run in terminal as .... gpg pubkey.gpg
 
-![]()
+![](pubkey.png)
 
 Where we get an Email address of none other than Franciszek Warcislaw i.e franciszek.warcislaw@gmail.com....
 
@@ -62,6 +62,7 @@ Now from here you need to decrypt this message with the given keys using a gpg d
 To verify:-
 
 Result of first decryption:---> 
+
 -----BEGIN PGP MESSAGE-----
 
 jA0ECQMCJI9D9fSwGBf/0pABBlFyGxbW6Op7zinz/GuIzsJaBtKpRD/EQk6LscMY
@@ -72,20 +73,20 @@ mBm3Kyzw/jmtihdd22OomFg\u003d
 -----END PGP MESSAGE-----
 
 Result of second decryption:--->
+
 https://docs.google.com/document/d/1yXSpavYyF4ilTnFhvBSytf6UuMcDUPqQeCecIXCkUCU/edit
 
 So now we got a google docs folder... 
-where the engineer provides his notes on the operation which has 3 photos and the 3rd photo creates suspicion with the line "Maybe we need to think outside the box a little bit…
-"
-![]()
+
+Where the engineer provides his notes on the operation which has 3 photos and the 3rd photo creates suspicion with the line _Maybe we need to think outside the box a little bit…_
 
 I just checked the frame of the image and noticed a text around the top left corner of the screen in green font....
 
 And this was this FLAG.....atlast RELIEF!!!
 
-![]()
+![](ostrichflag.png)
 
-![]()
+![](flag.png)
 
 # FLAG OBTAINED :---> AFFCTF{GuineaPigsAreTooBigForRunningWheels}
 
@@ -99,4 +100,8 @@ Now we put the link into wayback machine and got a great green dot on nov 11...
 And the fourth screenshot gave the same image as similar to that of the google doc file with the image with flag in it...
 https://web.archive.org/web/20201111123922/https://operationsluggishhamster.wordpress.com/
 
-Overall a great experience of OSINT!!!!!
+![](wayback.png)
+
+## Overall a great experience of OSINT!!!!!
+
+**P.S Thanks for your patience... 😊**
