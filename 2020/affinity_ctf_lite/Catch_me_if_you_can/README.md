@@ -104,7 +104,7 @@ If you'll look at the HTTP response, you'll see that the page uses long-polling 
 ```
 ![img2](./images/long-polls.png)
 
-We can add our on listener that will take the ``catch_me`` messages and forward everything to our local parser endpoint:
+We can add our own listener that will take the ``catch_me`` messages and forward everything to our local parser endpoint:
 
 ```js
 socket.on('catch_me', async function(image){
