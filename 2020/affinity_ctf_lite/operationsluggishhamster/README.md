@@ -84,7 +84,7 @@ I just checked the frame of the image and noticed a text around the top left cor
 
 And this was this FLAG.....atlast RELIEF!!!
 
-![](.png)
+![](ostrichflag.png)
 
 ![](flag.png)
 
