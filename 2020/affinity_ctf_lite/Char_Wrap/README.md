@@ -19,7 +19,7 @@ This is the writeup of the AFFINITY ctf that was performed on November 16, 2020.
 
 ![stringuse](stringsuse.png)
 
->then
+>then remove 'H', you got
 ```
-Flag : AFFCTF{yHou_foundH_somethiHng!}
+Flag : AFFCTF{you_found_somethiHng!}
 ```
