@@ -5,4 +5,6 @@ This is the writeup of the AFFINITY ctf that was performed on November 16, 2020.
 ***Points : 10***\
 ***Author : krn bhargav (Ryn0)*** \
 ***Team : Red-Knights***:warning:
+## Description
+  
 
