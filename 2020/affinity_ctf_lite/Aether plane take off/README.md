@@ -8,7 +8,7 @@
 ![forense](https://img.shields.io/badge/analitycs-forensic-green) ![play](https://img.shields.io/badge/Play-CTF-red)
 
 ## Description
-> We managed to intercept the signal from the mole that shifted the phase with some keys 31 minutes ago. Can you help us read it?\
+> We managed to intercept the signal from the mole that shifted the phase with some keys 31 minutes ago. Can you help us read it?
 - [file](https://github.com/Red-Knights-CTF/writeups/blob/master/2020/affinity_ctf_lite/Aether%20plane%20take%20off/aether_plane_take_off.wav)
 
 First we start by doing a `file` to the file to verify that it is a wav file and not another fileFirst we start by doing a file to the file to verify that it is a wav file and not another file.
