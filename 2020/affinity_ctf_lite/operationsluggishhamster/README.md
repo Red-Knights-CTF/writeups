@@ -84,11 +84,11 @@ I just checked the frame of the image and noticed a text around the top left cor
 
 And this was this FLAG.....atlast RELIEF!!!
 
-![](ostrichflag.png)
+![](.png)
 
 ![](flag.png)
 
-# FLAG OBTAINED :---> AFFCTF{GuineaPigsAreTooBigForRunningWheels}
+## FLAG OBTAINED :---> AFFCTF{GuineaPigsAreTooBigForRunningWheels}
 
 Now there was an other way in this challenge...
 
