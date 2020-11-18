@@ -58,7 +58,7 @@ Looking for ways to decode PSK31 I found a `figidi` program, its use is the foll
 
 ## Result :smile:
 
-![figidi](figidi-result.jpg)
+![figidi](figidi-result.png)
 
 
 ```
