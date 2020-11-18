@@ -34,3 +34,6 @@ and VOILA...
 
 # FLAG OBTAINED :-->  AFFCTF{n0t_3nc0d3d} ... 🚩
 
+
+For more information on base 85 :---> https://en.wikipedia.org/wiki/Ascii85
+
