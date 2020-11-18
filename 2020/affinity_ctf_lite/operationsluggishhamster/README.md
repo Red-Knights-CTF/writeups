@@ -4,9 +4,9 @@
 Hello! There is a problem with an unknown company data center. Their existing solution is not efficient. Unfortunately, ex-main engineer **Franciszek Warcislaw ** left the company. 
 All they have is his login to internal company systems: _franciszekwarcislaw_ and codename for solution upgrade operation: _operationsluggishhamster_ . Can you help?
 
-Catregory : OSINT 
-Author : Jerin John Mathew (Shadow_Walker)
-Team : Red Knights
+###### Catregory : OSINT 
+###### Author : Jerin John Mathew (Shadow_Walker)
+###### Team : Red Knights
 
 ![](https://img.shields.io/badge/229-OSINT-blue) ![](https://img.shields.io/badge/-Cryptography-orange)
 
