@@ -1,5 +1,10 @@
-# I need bass {100 points}
+# I need bass {100 points} 🎸
+
 ##### Category : Steganography
+##### Author : Jerin John Mathew (Shadow_Walker)
+##### Team : Red Knights
+
+![](https://img.shields.io/badge/100-Steganography-red)  ![](https://img.shields.io/badge/-Cryptography-green)
 
 I need a bass to earn some bitcoin! http://web5.affinityctf.com/
 
@@ -28,3 +33,4 @@ decrypted text : AFFCTF{ThisBaseEncodingIsUsedInBitCoin}
 ## Flag Obtained :- AFFCTF{ThisBaseEncodingIsUsedInBitCoin} ... 🚩
 
 
+Check out this article for more information on the topic of _Bitcoins & Base58_ :--> https://en.bitcoin.it/wiki/Base58Check_encoding
