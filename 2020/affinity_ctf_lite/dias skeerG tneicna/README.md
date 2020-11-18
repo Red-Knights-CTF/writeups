@@ -46,7 +46,7 @@
             E = 51
             F = 45 ...      
 
-    Step: In previous step we get the code T = 21 which means and we can't get code for Z, So make another table -- success
+    Step: In previous step we get the code T = 21 and we cannot get code for Z, So make another table -- success
     Information: Playfair cipher uses 25 blocks for A-Z by combining I/J in a single block
     Output: A = 55
             B = 54
