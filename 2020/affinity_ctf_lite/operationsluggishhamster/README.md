@@ -1,7 +1,7 @@
 # operationsluggishhamster (229 points) 
 
 ## Challenge Description
-Hello! There is a problem with an unknown company data center. Their existing solution is not efficient. Unfortunately, ex-main engineer **Franciszek Warcislaw ** left the company. 
+Hello! There is a problem with an unknown company data center. Their existing solution is not efficient. Unfortunately, ex-main engineer **Franciszek Warcislaw** left the company. 
 All they have is his login to internal company systems: _franciszekwarcislaw_ and codename for solution upgrade operation: _operationsluggishhamster_ . Can you help?
 
 ###### Catregory : OSINT 
@@ -16,9 +16,10 @@ The Challenge begins with the above description , where the username of Francisz
 
 Initial step was to find any accounts under this username using *Sherlock Osint Tool* ....
 
-![]()
+![](sherlock.png)
 
 Here, we are able to see that he has a GitHub account in which he has a respository named *_operationsluggishhamster_*
+https://github.com/franciszekwarcislaw/operationsluggishhamster
 
 Inside that there was a file named pubkey.gpg which had a public pgp key and a private pgp key...
 
