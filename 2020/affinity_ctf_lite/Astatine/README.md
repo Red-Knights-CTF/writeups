@@ -6,6 +6,7 @@ Can you read the message?
 
 5t4=2<(;4P0Q^YXDIYA21Ltn
 
+###### Category : Steganography
 ###### Author : Jerin John Mathew (Shadow_Walker)
 ###### Team : Red Knights
 
