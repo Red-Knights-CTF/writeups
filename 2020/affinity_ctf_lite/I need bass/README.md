@@ -32,8 +32,8 @@ decrypted text : AFFCTF{ThisBaseEncodingIsUsedInBitCoin}
 
 ## Flag Obtained :- AFFCTF{ThisBaseEncodingIsUsedInBitCoin} ... 🚩
 
-
-Check out this article for more information on the topic of _Bitcoins & Base58_ :--> https://en.bitcoin.it/wiki/Base58Check_encoding
+Another method :-
+You can also write a small script for the same...
 
 ```python
 
@@ -47,3 +47,7 @@ f.write(str((s)))
 f.close()
 
 ```
+
+
+Check out this article for more information on the topic of _Bitcoins & Base58_ :--> https://en.bitcoin.it/wiki/Base58Check_encoding
+
