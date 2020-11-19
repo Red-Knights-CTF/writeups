@@ -34,3 +34,16 @@ decrypted text : AFFCTF{ThisBaseEncodingIsUsedInBitCoin}
 
 
 Check out this article for more information on the topic of _Bitcoins & Base58_ :--> https://en.bitcoin.it/wiki/Base58Check_encoding
+
+```python
+
+import base58
+
+cipher = "jcvS2fvr1nVNnxHDs6WECRem3piWBdxQsHuQ6vmcJRfArv8ogsXzU"
+s = base58.b58decode(cipher)
+
+f = open('flag', 'w')
+f.write(str((s)))
+f.close()
+
+```
