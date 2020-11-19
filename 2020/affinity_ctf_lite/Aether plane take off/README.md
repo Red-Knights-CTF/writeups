@@ -14,13 +14,24 @@
 First we start by doing a `file` to the file to verify that it is a wav file and not another fileFirst we start by doing a file to the file to verify that it is a wav file and not another file.
 ```console
 skynet@sky~$ file aether_plane_take_off.wav
+
 aether_plane_take_off.wav: RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, stereo 44100 Hz
 ```
 It is indeed wav file
 
 Now let's strings to the wav file to check that it doesn't have some loose data
-```
-strings aether_plane_take_off.wav
+```console
+skynet@sky~$ strings aether_plane_take_off.wav
+
+RIFFx@&
+WAVEfmt
+data
+LIST
+INFOIGNR
+Industrial
+id3 ,
+;>COTCON
+Industrial
 ```
 I did not find anything interesting let's see by other means.
 <!-- --------------- -->
