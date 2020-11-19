@@ -1,0 +1,1 @@
+# Writeup : pseudo-pseudo-random
