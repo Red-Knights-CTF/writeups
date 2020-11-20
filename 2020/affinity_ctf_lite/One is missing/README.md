@@ -1,6 +1,6 @@
 # One is missing
 
-**Category**: Stego
+**Category**: Stego /
 **Points**: 10
 
 ![](full_of__cuteness.jpg)
