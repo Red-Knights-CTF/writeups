@@ -31,3 +31,6 @@
     
 ### Flag: 
     H2G2{S4ge_CrYpt0_1s_3Z}
+
+### Author Name:
+    Mann Pradhan {Ikshvaku}
