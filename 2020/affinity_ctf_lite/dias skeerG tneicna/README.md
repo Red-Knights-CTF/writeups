@@ -58,3 +58,6 @@
 
 ### Flag: 
     AFFCTF{THIS_IS_JUST_A_SIMPLE_MAPPING}
+
+### Author Name:
+    Mann Pradhan {Ikshvaku}
