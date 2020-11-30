@@ -21,7 +21,7 @@ We were given a png image
 
 After reading the discription it was clear that solution is related to `Hex`, I though it would be changing the magic numbers of the image. But that was not the case.
 
-So i researched a bit and got a idea, that it could be reading the hex value of colors, for that purpose i got a great website : `https://html-color-codes.info/colors-from-image/`
+So i researched a bit and got an idea, that it could be reading the hex value of colors, for that purpose i got a great website : `https://html-color-codes.info/colors-from-image/`
 
 ![](website.png)
 
