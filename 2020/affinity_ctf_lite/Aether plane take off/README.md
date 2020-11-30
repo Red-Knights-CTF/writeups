@@ -1,5 +1,4 @@
 # Writeup: Aether Plane Take off :triangular_flag_on_post:
-This is the writeup of the AFFINITY ctf that was performed on November 16, 2020. 
 
 ***Category : Forensic***:minidisc:\
 ***Points : 725***\
@@ -9,18 +8,30 @@ This is the writeup of the AFFINITY ctf that was performed on November 16, 2020.
 ![forense](https://img.shields.io/badge/analitycs-forensic-green) ![play](https://img.shields.io/badge/Play-CTF-red)
 
 ## Description
-> We managed to intercept the signal from the mole that shifted the phase with some keys 31 minutes ago. Can you help us read it?\
+> We managed to intercept the signal from the mole that shifted the phase with some keys 31 minutes ago. Can you help us read it?
 - [file](https://github.com/Red-Knights-CTF/writeups/blob/master/2020/affinity_ctf_lite/Aether%20plane%20take%20off/aether_plane_take_off.wav)
 
 First we start by doing a `file` to the file to verify that it is a wav file and not another fileFirst we start by doing a file to the file to verify that it is a wav file and not another file.
-```
-file aether_plane_take_off.wav
+```console
+skynet@sky~$ file aether_plane_take_off.wav
+
+aether_plane_take_off.wav: RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, stereo 44100 Hz
 ```
 It is indeed wav file
 
 Now let's strings to the wav file to check that it doesn't have some loose data
-```
-strings aether_plane_take_off.wav
+```console
+skynet@sky~$ strings aether_plane_take_off.wav
+
+RIFFx@&
+WAVEfmt
+data
+LIST
+INFOIGNR
+Industrial
+id3 ,
+;>COTCON
+Industrial
 ```
 I did not find anything interesting let's see by other means.
 <!-- --------------- -->
@@ -52,15 +63,15 @@ Analyzing the file a little more and googling a bit I was able to find the PSK31
 
 ## Decoding PSK31 :radio:
 
-Looking for ways to decode PSK31 I found a `figidi` program, its use is the following: ` Download figidi` >  `Upload File` > `Playback`
+Looking for ways to decode PSK31 I found a `fldigi` program, its use is the following: ` Download fldigi` >  `Upload File` > `Playback`
 
-- [Download figidi](http://www.w1hkj.com/files/fldigi)
+- [Download fldigi](http://www.w1hkj.com/files/fldigi)
 
 ## Result :smile:
 
-![figidi](figidi-result.jpg)
+![fldigi](figidi-result.png)
 
 
 ```
-Flag : AFFCTF{PSKPSKSPK31
+Flag : AFFCTF{PSKPSKSPK31}
 ```
