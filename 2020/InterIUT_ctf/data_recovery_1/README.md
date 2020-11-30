@@ -3,7 +3,7 @@
 **Category**: OSINT \
 **Points**: 50
 
-## Discription
+## Description
 
 Find Email Of The RSSI Of Random Corp.
 
