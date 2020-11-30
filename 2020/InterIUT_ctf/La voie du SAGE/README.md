@@ -1,6 +1,6 @@
 # Crypto Challenge
 
-## La voie du SAGE - 
+## La voie du SAGE - 50 points
 
 ### Description: 
 ```We have to use SAGE language```
