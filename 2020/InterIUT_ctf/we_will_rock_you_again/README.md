@@ -16,13 +16,13 @@ First of all i used Hash-Identifier to identify the hash type
 
 ![](hash-identifier.png)
 
-So we are given a md5 hash and thier are lots of website and tools that can be used to crack `MD5` hash with salt, but none of them worked.
+So we are given a `MD5` hash and thier are lots of website and tool that can be used to crack `MD5` hash with salt, but none of them worked.
 
 Hash-Identifier also gives a possibility that it can be a `MD5(HMAC)`, so i looked hashcat for `MD5(HMAC)` 
 
 ![](help.png)
 
-Now its time to fire up hashcat with `-m 60` as mentioned in hashcat help with `Rockyou.txt`
+Now its time to fire up hashcat with `-m 60` as mentioned in hashcat help with `Rockyou.txt` wordlist
 
 ![](hashcatss.png)
 
