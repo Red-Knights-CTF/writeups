@@ -39,3 +39,6 @@ Link --> https://pypi.org/project/rsactftool
 
 ### Flag: 
     AFFCTF{PermRecord}
+
+### Author Name: 
+    Mann Pradhan {Ikshvaku}
