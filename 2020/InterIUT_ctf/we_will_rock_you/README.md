@@ -1,6 +1,6 @@
 # We Will Rock You
 **Category: hash cracking**  
-**Points: ?**
+**Points: 20**
 
 ## Description
 We are given the hash `0a5a0a121c309891420d117b7efc169d78ec233351e2b86b9778df7af3bd8a5e82ab3d3715b7fa405cca193dc7c6e484acec3bdf343ea94667c6be451a508e9a` to crack. The flag is in the format `H2G2{<password>}`.
