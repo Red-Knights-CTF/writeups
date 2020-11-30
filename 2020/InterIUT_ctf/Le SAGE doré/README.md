@@ -1,6 +1,6 @@
 # Crypto Challenge
 
-## Le SAGE doré - 
+## Le SAGE doré - 20 Points
 
 ### Description: 
 ```We have to use SAGE language```
