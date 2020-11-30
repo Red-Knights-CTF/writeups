@@ -17,7 +17,7 @@ $ john --format=raw-sha512 --wordlist=/usr/share/wordlists/rockyou.txt hash
 ```
 No result. After that I tried whirpool as the format.  
 ```
-$ john --format=raw-sha512 --wordlist=/usr/share/wordlists/rockyou.txt hash
+$ john --format=whirlpool --wordlist=/usr/share/wordlists/rockyou.txt hash
 ```
 This is the output. We can see the password is ilovejohnny.
 ```
