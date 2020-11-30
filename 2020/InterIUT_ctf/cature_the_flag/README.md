@@ -19,7 +19,7 @@ We were given a png image
 
 ![](chall.png)
 
-After reading the discription it was clear that solution is related to `Hex`, I though it would be changing the magic numbers of the image. But that did not worked.
+After reading the discription it was clear that solution is related to `Hex`, I though it would be changing the magic numbers of the image. But that was not the case.
 
 So i researched a bit and got a idea, that it could be reading the hex value of colors, for that purpose i got a great website : `https://html-color-codes.info/colors-from-image/`
 
