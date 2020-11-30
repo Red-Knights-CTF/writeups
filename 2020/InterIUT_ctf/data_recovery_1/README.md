@@ -11,15 +11,15 @@ Find Email Of The RSSI Of Random Corp.
 
 We were provided with a post `RSSI` of a company `Random Corp.` 
 
-As we all know best place to look up for companies and thier employee is `Lindedin`. So i searched on linkedin `RSSI Random Corp.` and the first profile was for us
+As we all know the best place to look up for companies and thier employee is `Lindedin`. So i searched on linkedin `RSSI Random Corp.` and the first profile was for us
 
 ![](linkedin.png)
 
-Looking deep into her profile for email but there was no email mentioned in his profile. so i looked up for a website that can gather emails based on profiles
+Looked deep into her profile but there was no email mentioned in her profile. so i looked up for a website that can gather emails from a profile
 and `https://skrapp.io/app/email-finder` worked for me
 
 ![](skrapp.png)
 
-we got the email!!!
+we got the email !!!
 
 FLAG : `H2G2{giseleletrou@randomcorp.bzh}`
