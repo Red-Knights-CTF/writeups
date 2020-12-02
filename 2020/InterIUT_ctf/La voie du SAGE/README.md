@@ -32,10 +32,12 @@ Link --> https://sagecell.sagemath.org/?z=eJxVzj2LwkAUheE-kP8QtEnAYj7vzSAWImIKsV
     flag = vigenere.deciphering(ciphered_key,ciphered_flag );
     flag
     Output: 483247327b533467655f4372597074305f31735f335a7d // some hex value
+![](Sage_Part_1_1.png)
     
     Step: Copy the above hex value and decode it
     Code: bytes.fromhex('483247327b533467655f4372597074305f31735f335a7d').decode('utf-8')
     Output: We get the flag
+![](Sage_Part_1_2.png)
     
 ### Flag: 
     H2G2{S4ge_CrYpt0_1s_3Z}
