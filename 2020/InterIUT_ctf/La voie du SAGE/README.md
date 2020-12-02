@@ -31,6 +31,10 @@ Link --> https://sagecell.sagemath.org/?z=eJxVzj2LwkAUheE-kP8QtEnAYj7vzSAWImIKsV
     vigenere = VigenereCryptosystem(H, len(ciphered_flag));
     flag = vigenere.deciphering(ciphered_key,ciphered_flag );
     flag
+    Output: 483247327b533467655f4372597074305f31735f335a7d // some hex value
+    
+    Step: Copy the above hex value and decode it
+    Code: bytes.fromhex('483247327b533467655f4372597074305f31735f335a7d').decode('utf-8')
     Output: We get the flag
     
 ### Flag: 
