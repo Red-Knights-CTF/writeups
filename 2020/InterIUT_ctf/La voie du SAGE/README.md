@@ -34,7 +34,7 @@ Link --> https://sagecell.sagemath.org/?z=eJxVzj2LwkAUheE-kP8QtEnAYj7vzSAWImIKsV
     Output: 483247327b533467655f4372597074305f31735f335a7d // some hex value
 ![](Sage_Part_1_1.png)
     
-    Step: Copy the above hex value and decode it
+    Step: Copy the above hex value and decode it -- success
     Code: bytes.fromhex('483247327b533467655f4372597074305f31735f335a7d').decode('utf-8')
     Output: We get the flag
 ![](Sage_Part_1_2.png)
