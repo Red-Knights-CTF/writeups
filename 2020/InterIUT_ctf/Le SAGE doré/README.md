@@ -34,7 +34,12 @@ Link --> https://sagecell.sagemath.org/?z=eJx1ks-KgzAQxu-C7xDYyy6IzJiY6GEP21K6h7
     flag= bg.decrypt(encrypted_flag, private);
     flag = "".join(str(m) for m in flatten(flag));
     flag
+    Output: We get a binary string
+![](Sage_Part_0_1.png)
+    
+    Step: Decode the Binary String -- success
     Output: We get the flag
+![](Sage_Part_0_2.png)
     
 ### Flag: 
     H2G2{0k_B0om3R}
