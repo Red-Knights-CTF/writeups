@@ -14,3 +14,5 @@ So we are given [crackme](crackme) to reverse and get the secret code. First thi
 ![](strings.png)
 
 FLAG : `b002root{62f6sHpFshNh844rTh}`
+
+(This was not the intended solution of this challenge but authors forgot about strings)
