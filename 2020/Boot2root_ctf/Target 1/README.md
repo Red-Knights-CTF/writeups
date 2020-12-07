@@ -16,3 +16,17 @@ Note: To send messages to the bot, you need to use ^ before every command.
 As said in discription i messaged the bot `^info`
 
 ![](bot.png)
+
+So we got a instagram username `redjohn190989`. Looking into that account, in 2nd post one comment catch my eyes 
+
+![](comment.png)
+
+Going to the url we have a `.wav` file. It was `Morse Code` 
+
+![](decode.png)
+
+Decoding it online give us a string. Passing it to bot give us the flag
+
+![](flag.png)
+
+FLAG : `b00t2root{m0rs3_d3cod3r_i5_fun}`
