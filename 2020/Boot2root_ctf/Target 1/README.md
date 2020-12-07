@@ -21,7 +21,7 @@ So we got a instagram username `redjohn190989`. Looking into that account, in 2n
 
 ![](comment.png)
 
-Going to the url we have a `.wav` file[](morse.wav). It was `Morse Code` 
+Going to the url we have a [wav file](morse.wav) file. It was `Morse Code` 
 
 ![](decode.png)
 
