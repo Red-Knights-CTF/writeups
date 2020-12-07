@@ -7,7 +7,7 @@ Once upon a time in Active Directory, Red Teamers used to love it! Microsoft lov
 We are given a zip file, find the flag.
 
 ## Solution
-Inside the zip file is a windows directory structure containing several files. Here's the output of tree.
+Inside the zip file is a windows directory structure containing several files. Here's the output of `tree`.
 
 ```
 $ tree 329d7767b42f3d8e9f498e98fbabc83c/
@@ -55,7 +55,7 @@ $ tree 329d7767b42f3d8e9f498e98fbabc83c/
 28 directories, 11 files
 ```
 
-Maybe the flas is in some of these files. After some googling, I found out about several things:
+Maybe the flag is in one of these files. After some googling, I found out about several things:
 - Active Directory (AD) is a database and set of services that connect users with the network resources they need to get their work done. The database (or directory) contains critical information about your environment, including what users and computers there are and who’s allowed to do what. For example, the database might list 100 user accounts with details like each person’s job title, phone number and password. It will also record their permissions.
 - This awesome [post](https://adsecurity.org/?p=2362) detailing how to attack active directories.
 
@@ -69,7 +69,7 @@ $ cat Groups.xml
 ```
 There we can see the GPP(Group Policy Preferences) password `cpassword="3g4TWcMxZ0ZrE2jVR7dTo35mGErheJS8w6opX3UW9a3FvxHRskfK/CUOf1GBB8z7MYH1u8jUnJxHZs7DjYM0bQ"`.  
 Windows users can use this powershell [script](https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Get-GPPPassword.ps1) to decrypt the password.  
-There is also a [tool](https://tools.kali.org/password-attacks/gpp-decrypt) in kali called `gpp-decrypt` to decrypt it.
+There is also a [tool](https://tools.kali.org/password-attacks/gpp-decrypt) in kali called `gpp-decrypt` to decrypt it. Now we just have to run the tool to get the flag.
 
 ```
 $ gpp-decrypt 3g4TWcMxZ0ZrE2jVR7dTo35mGErheJS8w6opX3UW9a3FvxHRskfK/CUOf1GBB8z7MYH1u8jUnJxHZs7DjYM0bQ
