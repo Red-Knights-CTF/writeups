@@ -7,3 +7,4 @@
 | [Dragon CTF 2020](2020/dragon_ctf/)               | 107 / 539 |
 | [InterIUT_CTF_2020](2020/InterIUT_ctf/)           |   5 / 87  |
 | [Boot2Root_CTF_2020](2020/Boot2root_ctf/)         |   9 / 124 |
+| [Asis_CTF_2020](2020/asis_ctf/)                   |  64 / 351 |
