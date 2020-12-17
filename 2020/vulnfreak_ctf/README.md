@@ -2,7 +2,10 @@
 <br />
 <br />
 
-![logo](logo.png)
+ <a>
+  <img src="logo.png" alt="logo">
+</a>
+
 <br />
 <br />
 
