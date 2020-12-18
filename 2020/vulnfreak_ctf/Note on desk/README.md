@@ -14,7 +14,7 @@ images = [cv2.imread('robot-{}.jpg'.format(i)) for i in range(1, 600)]
 result = cv2.hconcat(images)
 cv2.imwrite('out.jpg', result)
 ```
-Here we can see the flag inside the image.
+Here we can see the flag inside the image.  
 ![flag](out.jpg)
 
 **FLAG:** `hf0x01{3nj0y_7h3_3v3ing_w17h_u$}`
