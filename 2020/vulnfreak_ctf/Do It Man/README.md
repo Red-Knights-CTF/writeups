@@ -13,8 +13,8 @@ First I select challenge apk file
 ![](2.jpg)
 
 ```I searched with flag format of this ctf.``` 
+![](3.jpg)
 ![](4.jpg)
-![](5.jpg)
 
 
 ```flag:hf0x01{Y0u_4r3_n0w_B4s1c_4ndr01d}```
