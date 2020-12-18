@@ -8,6 +8,7 @@
 ## Solution
 I am a newbie in android.When I face with an android challenge,I use apk editor tool.
 First I select challenge apk file 
+<br>
 ![](1.jpg)
 ![](2.jpg)
 
