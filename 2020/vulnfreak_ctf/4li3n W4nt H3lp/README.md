@@ -11,7 +11,7 @@ NOTE : hf0x01{Decoded_Message} PUT _ BETWEEN MESSAGE
 Author : l3v1ath4n
 
 ### Solution
->Given file is (chall.PNG)
+>Given file is ![](chall.PNG)
 
 
 
