@@ -7,7 +7,7 @@ Cipher Is In File :) Check File.
 We are given a file [chall.txt](), recover the flag.
 
 ## Solution
-The first thing to do after downloading a file is to check its type. 
+Usually, the first thing I do after downloading a file is to check its type. 
 ```
 $ file chall.txt
 chall.txt: ASCII text
@@ -17,7 +17,7 @@ Now lets see whats inside this file.
 ```
 $ cat chall.txt
 QEgAAAoDAAAAALxtdFHz9fhaSgAAAEoAAAAIAAAAYmFzZS50eHQ5UkNqNWdVb0VXMTZWOTVSdHc3TDFjSE5FdHNMbzh5blZjS3NQSjZzWkViUHIyVVJmVXZvZVdoZFUzYXFhbmlHVThkY1FCcVhKa1BLAQI/AwoDAAAAALxtdFHz9fhaSgAAAEoAAAAIACQAAAAAAAAAIICkgQAAAABiYXNlLnR4dAoAIAAAAAAAAQAYAIDzxmBtv9YBgPi5pG2/1gGA88Zgbb/WAVBLBQYAAAAAAQABAFoAAABwAAAAAAA=
-```
+```  
 
 Looks like base64. lets decode this.
 ```
@@ -60,8 +60,8 @@ $ cat base.txt | bsae64 -d
 
 The output is gibberish and it says invalid input. Even after appending '=' to the end of the string, it still says invalid input. Maybe this isn't a base64 string. I then used [CyberChef](https://gchq.github.io/CyberChef/) to guess the encoding.
 
-![output of cyberchef]()
+![output of cyberchef](screenshot.png)
 
-There is the flag! It turns out the string was base58 encoded. 
+There is the flag! It turns out the string was base58 encoded.  
 **FLAG:** `hf0x01{every_encrypted_base_is_teach_us_something_new}`
 
