@@ -15,7 +15,7 @@ Another point to be noted is that in the description this was mentioned **digest
 
 I wrote a shot python script which just does all this
 
-```
+```python
 import hashlib
 import subprocess
 
