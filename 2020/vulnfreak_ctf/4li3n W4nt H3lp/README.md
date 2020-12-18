@@ -1,6 +1,6 @@
 # 4li3n W4nt H3lp
 
-**category: Cryptography*  
+**category: Cryptography**
 **points: 100**
 
 ## Description:
@@ -9,6 +9,9 @@
 NOTE : hf0x01{Decoded_Message} PUT _ BETWEEN MESSAGE
 
 Author : l3v1ath4n
+
+### Solution
+>Given file is (chall.PNG)
 
 
 
