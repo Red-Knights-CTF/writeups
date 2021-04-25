@@ -10,4 +10,4 @@
 | [Asis_CTF_2020](2020/asis_ctf/)                   |  64 / 351 |
 | [Vulnfreak_CTF_2020](2020/vulnfreak_ctf/)         |   4 /  81 |
 | [Cybergrab CTF 2021](2021/cybergrab_ctf/)         |   9 / 224 |
-| [Bo1ler CTF 20211] (https://hackolympus.com/2021/04/06/bo1ler-ctf-2021-writeup/) | |
+
