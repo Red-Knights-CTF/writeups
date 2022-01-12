@@ -17,7 +17,7 @@ using [dtmf-decoder](https://github.com/ribt/dtmf-decoder), I got
 
 decode it *from decimal to ascii* (https://onlineasciitools.com/convert-decimal-to-ascii)
 
-![](que.png)(dec-to-ascii.png)
+![](dec-to-ascii.png)
 
 # Flag is `SCTF{C0M3_T0_TR14N_5T4T10N}`
 
