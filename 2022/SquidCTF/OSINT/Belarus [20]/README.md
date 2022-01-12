@@ -8,10 +8,13 @@
 > Find the nearest station to the place where this photo was taken:
 
 Flag format:- SCTF{station_name_all_small_without_spaces}
+
 ![](que.png)
 ## Solution
 
-Given file is ![image.png](image.png).
+Given file is 
+
+![image.png](image.png).
 
 Using reverse image lookup, I got the same image with good quality
 ![](image_good_quality.png).
