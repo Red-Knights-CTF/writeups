@@ -10,4 +10,4 @@
 | [Asis_CTF_2020](2020/asis_ctf/)                   |  64 / 351 |
 | [Vulnfreak_CTF_2020](2020/vulnfreak_ctf/)         |   4 /  81 |
 | [Cybergrab CTF 2021](2021/cybergrab_ctf/)         |   9 / 224 |
-
+| [Squid CTF 2022](2021/SquidCTF/)                  |   1 / 75 |

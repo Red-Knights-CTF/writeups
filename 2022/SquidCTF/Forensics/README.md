@@ -1,0 +1,3 @@
+# SquidCTF | Forensics
+
+![](Forensics.png)

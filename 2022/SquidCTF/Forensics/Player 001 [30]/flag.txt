@@ -1,0 +1,1 @@
+SCTF{squid_allergy}
