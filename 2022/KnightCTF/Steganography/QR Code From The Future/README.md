@@ -11,6 +11,8 @@
 ## Solution
 Given file is [QR_Code_From_The_Future.gif](QR_Code_From_The_Future.gif)
 
+![](QR_Code_From_The_Future.gif)
+
 It's a gif made with lot of qr code images
 
 Run the code below to extract all images from the gif to img folder
