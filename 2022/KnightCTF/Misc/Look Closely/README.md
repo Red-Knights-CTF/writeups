@@ -22,7 +22,7 @@ Use the settings shown below and the link will be readable.
 
 Got https://drive.google.com/file/d/1_6c_waS9ijouTpqI_tUO6VCRf7fE6gCY/view
 
-In the link I got [Watch closely.mp4](Watch%20closely.mp4)
+In the link I got Watch closely.mp4
 
 I watched the video carefully and got two binary code.\
 First in [00:10 sec](1.png) and Secound in [00:52 sec](2.png)
