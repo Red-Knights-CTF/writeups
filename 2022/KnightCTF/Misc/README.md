@@ -1,0 +1,3 @@
+# KnightCTF | Misc
+
+![](Misc.png)

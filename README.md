@@ -2,6 +2,7 @@
 
 | CTF                                               |      Rank |
 |---------------------------------------------------|----------:|
+| [Knight CTF 2022](2021/KnightCTF/)                |  18 / 752 |
 | [Squid CTF 2022](2021/SquidCTF/)                  |   1 / 75  |
 | [Cybergrab CTF 2021](2021/cybergrab_ctf/)         |   9 / 224 |
 | [SunshineCTF 2020](2020/sunshine_ctf/)            |  17 / 742 |
@@ -11,5 +12,4 @@
 | [Boot2Root_CTF_2020](2020/Boot2root_ctf/)         |   9 / 124 |
 | [Asis_CTF_2020](2020/asis_ctf/)                   |  64 / 351 |
 | [Vulnfreak_CTF_2020](2020/vulnfreak_ctf/)         |   4 /  81 |
-
 

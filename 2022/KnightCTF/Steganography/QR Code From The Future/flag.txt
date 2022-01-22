@@ -1,0 +1,1 @@
+KCTF{QR_code_got_evolved_from_static_to_dynamic}
