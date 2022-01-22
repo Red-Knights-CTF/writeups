@@ -18,7 +18,7 @@ Unzip the file and got a "unknown file"
 
 Change the Hex signatures of the unknown file(`00 10 56 65` to `89 50 4E 47`).
 
-![](unknown file)
+![](unknown%20file)
 
 # Flag is `KCTF{Imag3_H3ad3r_M4nipul4t10N}`
 
