@@ -4,5 +4,5 @@
 
 **Rank** : 18 / 752
 
-![](scoreboard.png)
+![](scoreboard2.png)
 
