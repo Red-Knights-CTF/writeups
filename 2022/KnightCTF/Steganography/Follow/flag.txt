@@ -1,0 +1,1 @@
+KCTF{This_is_the_real_flag}
