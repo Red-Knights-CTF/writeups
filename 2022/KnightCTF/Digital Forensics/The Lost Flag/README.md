@@ -10,7 +10,7 @@
 ![](que.png)
 ## Solution
 
-Given file is [Lost Flag.png](Lost Flag.png).
+Given file is [Lost Flag.png](Lost%20Flag.png).
 
 Just use `stegsolve` and see the Red plane 0.
 
