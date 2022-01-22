@@ -1,4 +1,4 @@
 # KnightCTF | Digital Forensics
 
-![](Digital Forensics.png)
+![](Digital%20Forensics.png)
 
