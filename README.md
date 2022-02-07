@@ -1,9 +1,10 @@
 # Red Knights CTF Writeups :warning:
 
 | CTF                                               |      Rank |
-|---------------------------------------------------|----------:|
-| [Knight CTF 2022](2021/KnightCTF/)                |  18 / 752 |
-| [Squid CTF 2022](2021/SquidCTF/)                  |   1 / 75  |
+|:--------------------------------------------------|----------:|
+| [Cyber Grabs CTF 2022](2022/cybergrab_ctf/)       |     3/285 |
+| [Knight CTF 2022](2022/KnightCTF/)                |  18 / 752 |
+| [Squid CTF 2022](2022/SquidCTF/)                  |   1 / 75  |
 | [Cybergrab CTF 2021](2021/cybergrab_ctf/)         |   9 / 224 |
 | [SunshineCTF 2020](2020/sunshine_ctf/)            |  17 / 742 |
 | [Affinity CTF Lite 2020](2020/affinity_ctf_lite/) |   5 / 689 |
