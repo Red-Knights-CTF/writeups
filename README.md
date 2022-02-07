@@ -2,7 +2,7 @@
 
 | CTF                                               |      Rank |
 |:--------------------------------------------------|----------:|
-| [Cyber Grabs CTF 2022](2022/cybergrab_ctf/)       |     3/285 |
+| [Cyber Grabs CTF 2022](2022/CybergrabCTF/)       |     3/285 |
 | [Knight CTF 2022](2022/KnightCTF/)                |  18 / 752 |
 | [Squid CTF 2022](2022/SquidCTF/)                  |   1 / 75  |
 | [Cybergrab CTF 2021](2021/cybergrab_ctf/)         |   9 / 224 |
