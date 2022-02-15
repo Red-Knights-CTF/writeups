@@ -2,6 +2,8 @@
 
 | CTF                                               |      Rank |
 |:--------------------------------------------------|----------:|
+| [Hayyim CTF 2022](2022/HayyimCTF/)                |     12/86 |
+| [DefCamp CTF 21-22](2022/DefCampCTF/)             |   18/1035 |
 | [Cyber Grabs CTF 2022](2022/CybergrabsCTF/)       |     3/285 |
 | [Knight CTF 2022](2022/KnightCTF/)                |  18 / 752 |
 | [Squid CTF 2022](2022/SquidCTF/)                  |   1 / 75  |
